@@ -1,0 +1,12 @@
+main{
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 15px;
+    justify-items: center;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    
+}
